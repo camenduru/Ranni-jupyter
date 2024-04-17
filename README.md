@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Ranni-jupyter/blob/main/Ranni_jupyter.ipynb) | Ranni_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Ranni-jupyter/blob/main/Ranni_jupyter.ipynb) | Ranni_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/ali-vilab/Ranni
